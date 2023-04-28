@@ -49,7 +49,7 @@ Si deseas contribuir a mejorar nuestro restaurante, puedes hacerlo a través de 
 * Dania Gorety Tejada Campos (TC232020).
 * Kenia Celina Ramírez Fernández (RF231853).
 
-## Enalnces 👀
+## Enlaces 👀
 [Mockups]https://drive.google.com/drive/folders/1x2qLnKYvavlJc7Rn8s1pL9MJ0r-gZsJz?usp=share_link
 [Paginas web]https://drive.google.com/file/d/1DP7g693M2CGG37E7Qd4CZu68YQaraKDt/view?usp=share_link
 https://drive.google.com/file/d/1UDuwbknEokfP7XdSGRId6yxJdCQCHG2C/view?usp=share_link
