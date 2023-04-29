@@ -8,23 +8,27 @@ Este es un repositorio para el restaurante ***"Taco Gacho"***, donde podrá enco
 Aquí se muestra un ejemplo de nuestro menú, pero puede variar según la temporada y disponibilidad de los ingredientes:
 
 ### Entradas:
-* guacamole y totopos
-* queso fundido con chorizo
+* Nachos
+* queso fundido 
+* Enchiladas
 * tostadas de tinga de pollo
 ### Platos fuertes:
-* tacos de carnitas
-* enchiladas verdes
-* fajitas de res
-* pozole
+* tacos de (carnitas,pastor,carne y pollo)
+* Gringas
+* Quesabirrias
+* Tacos de birria
 ### Postres:
 * flan de la casa
-* churros con chocolate
+* Pie de nutella con banano
+* pastel cheesecake
 * pastel de tres leches
 ### Bebidas
 * Gaseosas
+* limonada
 * Frescos naturales
-* horchata de la casa 
-* licuados
+* limonada con hierba buena
+* limonada de fresa
+* agua oxigenada
 
 ## Ubicación
 El restaurante se encuentra ubicado en la Calle Benito Juárez #123, Colonia Centro, San salvador.
@@ -50,13 +54,15 @@ Si deseas contribuir a mejorar nuestro restaurante, puedes hacerlo a través de 
 * Kenia Celina Ramírez Fernández (RF231853).
 
 ## Enlaces 👀
-[Enlace a Mockups] * https://drive.google.com/drive/folders/1x2qLnKYvavlJc7Rn8s1pL9MJ0r-gZsJz?usp=share_link
+[Enlace a Mockups] * https://app.moqups.com/qXUpqIUwPsXY0rkFaBqltizkcWgRVn0G/edit/page/ab3ad9938
 
 [Paginas web] * https://drive.google.com/file/d/1DP7g693M2CGG37E7Qd4CZu68YQaraKDt/view?usp=share_link
 
 * https://drive.google.com/file/d/1UDuwbknEokfP7XdSGRId6yxJdCQCHG2C/view?usp=share_link
 
 [PDF Manual Técnico] * https://drive.google.com/file/d/17cRklOT-pc8BCU0bZtQcs7Ut1hFae5w0/view?usp=share_link
+
+[Manual de Usuario]https://www.canva.com/design/DAFhW1R49MA/MFE0eNSL-bxL8QGMvPkLWw/view?utm_content=DAFhW1R49MA&utm_campaign=designshare&utm_medium=link&utm_source=viewer
 
 
 
