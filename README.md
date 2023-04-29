@@ -56,9 +56,7 @@ Si deseas contribuir a mejorar nuestro restaurante, puedes hacerlo a través de 
 ## Enlaces 👀
 [Enlace a Mockups] * https://app.moqups.com/qXUpqIUwPsXY0rkFaBqltizkcWgRVn0G/edit/page/ab3ad9938
 
-[Paginas web] * https://drive.google.com/file/d/1DP7g693M2CGG37E7Qd4CZu68YQaraKDt/view?usp=share_link
-
-* https://drive.google.com/file/d/1UDuwbknEokfP7XdSGRId6yxJdCQCHG2C/view?usp=share_link
+[Paginas web] *https://impeccable-luster-proves.w3spaces.com/
 
 [PDF Manual Técnico] * https://drive.google.com/file/d/17cRklOT-pc8BCU0bZtQcs7Ut1hFae5w0/view?usp=share_link
 
